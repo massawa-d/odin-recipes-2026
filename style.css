@@ -1,0 +1,21 @@
+div {
+    padding: 24px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.alfredo-recipe-link {
+    background-color: burlywood;
+}
+
+.katsu-recipe-link {
+    background-color: chocolate;
+}
+
+.sushi-recipe-link {
+    background-color: darkkhaki;
+}
