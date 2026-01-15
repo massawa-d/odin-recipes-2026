@@ -19,3 +19,16 @@ ul {
 .sushi-recipe-link {
     background-color: darkkhaki;
 }
+
+.alfredo-recipe {
+    background-color: rgb(159, 25, 236);
+}
+
+.katsu-recipe {
+    background-color: rgb(207, 120, 20);
+    color: whitesmoke;
+}
+
+.sushi-recipe {
+    background-color: rgb(255, 192, 208);
+}
